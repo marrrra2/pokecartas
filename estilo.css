@@ -1,0 +1,36 @@
+.carta{
+
+width: 300px;
+
+border-radius: 5px ;
+padding-top: 15px;
+padding-left: 25px;
+
+}
+.titulo{
+    
+    margin-bottom: 12px;
+
+}
+.texto2{
+    padding-bottom: 50px;
+}
+
+#imagen2{
+
+}
+
+#habilidades{
+
+}
+
+.imagen{
+   width:200px;padding: 25px;background-image: url(/img/pokemon-background.png)
+}  
+    
+
+.charmander{
+    background-color: red;
+    border: 4px solid yellow;
+    
+}
